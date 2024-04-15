@@ -1,5 +1,5 @@
 # Mid-Test
-# **Coding Test Dibimbing.id Day 26**
+**Coding Test Dibimbing.id Day 26**
 
 ---
 **Soal Python 1 :**
