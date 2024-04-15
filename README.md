@@ -13,9 +13,13 @@ Menghitung jarak antara dua koordinat
 ---
 **Soal SQL 1 :**
 
-Menampilkan output gaji tertinggi ke-3
+* Membuat tabel dengan dua kolom: employee dan salary
+* Insert data
+* Menampilkan output gaji tertinggi ke-3
 
 ---
 **Soal SQL 1 :**
 
-Menampilkan output untuk nama item dengan penjualan tertinggi, terendah, dan middle sale (kecuali penjualan tertinggi dan terendah)
+* Membuat Tabel dengan dua kolom: buyer dan item
+* Insert data
+* Menampilkan output untuk nama item dengan penjualan tertinggi, terendah, dan middle sale (kecuali penjualan tertinggi dan terendah)
