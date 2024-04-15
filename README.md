@@ -1,10 +1,22 @@
 # Mid-Test
-Coding Test Dibimbing.id Day 26
+# **Coding Test Dibimbing.id Day 26**
 
-Soal 1 Python : Menampilkan output nama siswa yang mendapat nilai terbaik ke-3
+---
+**Soal Python 1 :**
 
-Soal 2 Python : Menghitung jarak antara dua koordinat
+Menampilkan output nama siswa yang mendapat nilai terbaik ke-3
 
-Soal 1 SQL : Menampilkan output gaji tertinggi ke-3
+---
+**Soal Python 2 :**
 
-Soal 2 SQL : Menampilkan output untuk nama item dengan penjualan tertinggi, terendah, dan middle sale (kecuali penjualan tertinggi dan terendah)
+Menghitung jarak antara dua koordinat
+
+---
+**Soal SQL 1 :**
+
+Menampilkan output gaji tertinggi ke-3
+
+---
+**Soal SQL 1 :**
+
+Menampilkan output untuk nama item dengan penjualan tertinggi, terendah, dan middle sale (kecuali penjualan tertinggi dan terendah)
