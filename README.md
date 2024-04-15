@@ -18,7 +18,7 @@ Menghitung jarak antara dua koordinat
 * Menampilkan output gaji tertinggi ke-3
 
 ---
-**Soal SQL 1 :**
+**Soal SQL 2 :**
 
 * Membuat Tabel dengan dua kolom: buyer dan item
 * Insert data
