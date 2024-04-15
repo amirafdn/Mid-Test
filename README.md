@@ -20,6 +20,6 @@ Menghitung jarak antara dua koordinat
 ---
 **Soal SQL 2 :**
 
-* Membuat Tabel dengan dua kolom: buyer dan item
+* Membuat tabel dengan dua kolom: buyer dan item
 * Insert data
 * Menampilkan output untuk nama item dengan penjualan tertinggi, terendah, dan middle sale (kecuali penjualan tertinggi dan terendah)
