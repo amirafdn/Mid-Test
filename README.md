@@ -1,7 +1,6 @@
 # Mid-Test
 **Coding Test Dibimbing.id Day 26**
 
----
 **Soal Python 1 :**
 
 Menampilkan output nama siswa yang mendapat nilai terbaik ke-3
